@@ -13,6 +13,15 @@ It fetches meal categories from **TheMealDB API** and allows users to **add/remo
 - ✅ Implements **MVC Architecture**
 
 ---
+
+## ❌ Drawbacks of MVC
+- **Activities contain too much logic**, making them **hard to maintain**.
+- **No separation between UI and business logic**.
+- **Difficult to test**.
+
+---
+
+---
 ## 🚀 Installation Guide
 ### **🔹 Clone the Repository**
 git clone https://github.com/your-repo/TestMVC.git
