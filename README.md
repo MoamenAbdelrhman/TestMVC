@@ -15,7 +15,6 @@ It fetches meal categories from **TheMealDB API** and allows users to **add/remo
 ---
 ## 🚀 Installation Guide
 ### **🔹 Clone the Repository**
-```sh
 git clone https://github.com/your-repo/TestMVC.git
 cd TestMVC
 
@@ -33,8 +32,4 @@ Room Database (Local storage) 🏡
 📌 API Used
 This project uses TheMealDB API to fetch meal categories.
 Base URL:
-
-sh
-Copy
-Edit
 https://www.themealdb.com/api/json/v1/1/
